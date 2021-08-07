@@ -17,4 +17,5 @@ for($count =0; $count < 10; $count++){
     print("Row number $count</TD></TR>\n");
 }
 print("</TABLE>\n");
+print("<a href=./constants/constants.php>constants</a>");
 ?>
